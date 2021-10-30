@@ -29,4 +29,4 @@ When not coding I enjoy reading anything fantasy, cooking, weight lifting and ga
 
 ## Stats 📊
 
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EdvinasOak&show_icons=true&hide_border=true&theme=onedark)
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EdvinasOak&show_icons=true&hide_border=true&theme=github_dark)
