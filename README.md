@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edvinas-aukstakalnis-387132119)
 [![Codepen Badge](https://img.shields.io/badge/-CodePen-%23000000?style=flat&logo=codepen&labelColor=%23000000)](https://codepen.io/EdOak2225)
-[![Codepen Badge](https://img.shields.io/badge/-dev.to-%23000000?style=flat&logo=dev.to&labelColor=%23000000)](https://dev.to/edvinasoak)
+[![Dev.to Badge](https://img.shields.io/badge/-dev.to-%23000000?style=flat&logo=dev.to&labelColor=%23000000)](https://dev.to/edvinasoak)
 
 I'm Ed, a Front End Developer based in Ireland, currently working on Angular 2+ projects.\
 When not coding I enjoy reading anything fantasy, cooking, weight lifting and gaming.
